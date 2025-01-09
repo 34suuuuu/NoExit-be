@@ -41,20 +41,12 @@
 
   
 - 편리한 예약 서비스를 제공하며 손 쉽게 방탈출 게임 정보를 제공한다.
-
-  
 - 정교한 필터링 기능으로 사용자 맞춤형 추천을 제공한다.
-
-  
 - 사용자 리뷰 및 평점 시스템을 통해 신뢰할 수 있는 정보를 제공한다.
-
-  
 - 유저 간 활발한 커뮤니티를 통해 지속적인 유입과 참여를 유도하며 함께하기 기능을 통해 점주는 매출 증대를 기대할 수 있다.
-
-  
 - 업주에게 효율적인 예약 시스템을 제공하여 효율적인 비즈니스 운영을 지원한다.
+  
 </div>
-
 
 <br/>
 
@@ -62,6 +54,8 @@
 
 
 ## 🛠 기술 스택
+
+<div align="left">
 
 ###  DB
 ![mariadb](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -86,32 +80,46 @@
 
 <br/>
 
+<div align=left>	
 
-## 🗓️ Work Breakdown Structure
+## 🗓️ WBS
+
+<div align=center>	
+
+  <img src="./img/WBS-be.gif" alt="WBS" width="1000" height="500" />
 
 
 [🗓️ WBS 상세 보기](https://docs.google.com/spreadsheets/d/1VdXKl6pfghy9OK6zTpShCHeG1uyAGB85Y2ycm1viF5g/edit?usp=sharing)
 
 
-
 <br/>
 
+<div align=left>	
+
 ## 📝 요구사항정의서
+
+<div align=center>	
+  
+<img src="./img/요구사항정의서.gif" alt="요구사항정의서" width="1000" height="500" />
 
 
 [📝 요구사항 명세서 상세보기](https://docs.google.com/spreadsheets/d/1VdXKl6pfghy9OK6zTpShCHeG1uyAGB85Y2ycm1viF5g/edit?gid=566809607#gid=566809607)
 
 <br/>
 
+<div align=left>	
+
 ## 📋 ERD
 
-![10-04 17;43;57](https://github.com/user-attachments/assets/996d0475-6631-4f5b-8a92-a8c780ffb7c0)
-![Fixed SwithT erd(24-09-20)](https://github.com/user-attachments/assets/2bdb36fa-7ef1-4860-8a0b-bc9ad29ce864)
+<div align=center>	
 
+<img src="./img/ERD.png" alt="ERD" width="1000" height="500" />
 
 <br/>
 
 <div align=left>	
+
+<br/>
 
 
 ## 📌 주요 기능    
@@ -130,6 +138,7 @@
   - 자신이 작성한 댓글의 추천 시 실시간 알림 기능
 <br/>
 
+
 ## ✨ 기능 테스트 및 시연
 
 <details>
@@ -138,9 +147,8 @@
   </summary>
   <div markdown="1">
     <ul>
-      <li>회원가입 & 로그인  
-        
-  ![회원가입로그인SMTP인증회원가입](https://github.com/user-attachments/assets/8b3e4bbd-81dc-4109-b0fc-2638e4f8fc92)
+      <li>회원가입 & 로그인
+        <img src="./img/회원가입로그인SMTP인증회원가입.gif"/>
       </li>
     </ul>
     
@@ -154,8 +162,7 @@
   <div markdown="1">
     <ul>
       <li>실시간 알림 & 알림 목록 조회
-
-  ![실시간알림](https://github.com/user-attachments/assets/b1db2b4c-866e-4935-8787-5d5067a2656f)
+        <img src="./img/실시간알림.gif"/>
       </li>
     </ul>
   </div>
@@ -168,8 +175,7 @@
   <div markdown="1">
     <ul>
       <li>실시간 채팅
-        
-  ![실시간채팅](https://github.com/user-attachments/assets/d2bf4012-d1a6-4258-ab22-3cf0178418fd)
+        <img src="./img/실시간채팅.gif"/>
       </li>
     </ul>
   </div>
@@ -182,12 +188,10 @@
   <div markdown="1">
     <ul>
       <li>예약 요청 ,(점주)예약 거절 및 승인
-
-  ![에약거절_예약승인_예약신청_예약알림](https://github.com/user-attachments/assets/815c1c68-7be8-4786-8186-f22a505c1642)
+        <img src="./img/에약거절_예약승인_예약신청_예약알림.gif"/>
       </li>
       <li>리뷰 작성 , 조회 , 수정 , 삭제
-        
-  ![리뷰수정삭제](https://github.com/user-attachments/assets/17649d95-707d-43fb-954a-cda169ee3534)
+        <img src="./img/리뷰수정삭제.gif"/>
       </li>
     </ul>
   </div>
