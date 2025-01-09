@@ -142,135 +142,113 @@
 ## ✨ 기능 테스트 및 시연
 
 <details>
-  <summary>
-    <b>회원가입 & 로그인</b>
-  </summary>
-  <div markdown="1">
-    <ul>
-      <li>회원가입 & 로그인
-        <img src="./img/회원가입로그인SMTP인증회원가입.gif"/>
-      </li>
-    </ul>
-    
-  </div>
+  
+<summary>회원가입 & 로그인</summary>
+
+#### 회원가입 & 로그인
+
+<img src="./img/회원가입로그인SMTP인증회원가입.gif"/>
+
 </details>
 
 <details>
-  <summary>
-    <b>알림</b>
-  </summary>
-  <div markdown="1">
-    <ul>
-      <li>실시간 알림 & 알림 목록 조회
-        <img src="./img/실시간알림.gif"/>
-      </li>
-    </ul>
-  </div>
+  
+<summary>알림</summary>
+
+#### 실시간 알림 & 알림 목록 조회
+
+<img src="./img/실시간알림.gif"/>
+
 </details>
 
 <details>
-  <summary>
-    <b>실시간 채팅</b>
-  </summary>
-  <div markdown="1">
-    <ul>
-      <li>실시간 채팅
-        <img src="./img/실시간채팅.gif"/>
-      </li>
-    </ul>
-  </div>
+  
+<summary>실시간 채팅</summary>
+
+#### 실시간 채팅
+
+<img src="./img/실시간채팅.gif"/>
+
 </details>
 
 <details>
-  <summary>
-    <b>예약 및 리뷰 작성</b>
-  </summary>
-  <div markdown="1">
-    <ul>
-      <li>예약 요청 ,(점주)예약 거절 및 승인
-        <img src="./img/에약거절_예약승인_예약신청_예약알림.gif"/>
-      </li>
-      <li>리뷰 작성 , 조회 , 수정 , 삭제
-        <img src="./img/리뷰수정삭제.gif"/>
-      </li>
-    </ul>
-  </div>
+  
+<summary>예약 및 리뷰 작성</summary>
+
+#### 예약 요청 ,(점주)예약 거절 및 승인
+
+<img src="./img/에약거절_예약승인_예약신청_예약알림.gif"/>
+
+#### 리뷰 작성 , 조회 , 수정 , 삭제
+
+<img src="./img/리뷰수정삭제.gif"/>
+
 </details>
 
 <details>
-  <summary>
-    <b>Escape With me</b>
-  </summary>
-  <div markdown="1">
-    <ul>
-      <li>모집글 조회,작성,수정,삭제 기능
-        
-  ![withme게시글CRUD](https://github.com/user-attachments/assets/8a2c4695-d29f-4cd9-8b59-c8fa57715859)
-      </li>
-      <li>모집글 검색 기능
-        
-  ![withme검색기능](https://github.com/user-attachments/assets/ac383e96-b042-489c-a3c6-efb6d4a73f62)
-      </li>
-      <li>모집글 참여,뱃지,채팅방 생성
-        
-  ![withme참여하기알림채팅](https://github.com/user-attachments/assets/1a787136-9b8f-4da1-808d-ee211df36aa5)
-      </li>
-      <li>모집글 페이징,참여하기
-        
-  ![withme페이징,참여하기](https://github.com/user-attachments/assets/3cb297d3-27cf-4b32-8519-58656e0703bb)
-      </li>
-    </ul>
-  </div>
+  
+<summary>Escape With me</summary>
+
+#### 모집글 조회, 작성, 수정, 삭제 기능 
+
+<img src="./img/withme게시글CRUD.gif"/>
+
+#### 모집글 검색 기능 
+
+<img src="./img/withme검색기능.gif"/>
+
+#### 모집글 참여, 뱃지, 채팅방 생성 
+
+<img src="./img/withme참여하기알림채팅.gif"/>
+
+#### 모집글 페이징, 참여하기 
+
+<img src="./img/withme페이징,참여하기.gif"/>
+
+</details>
+
+
+<details>
+  
+<summary>게시판</summary>
+
+#### 게시판 글 작성 
+
+<img src="./img/게시판글작성.gif"/>
+
+#### 게시판 글 수정 및 삭제 
+
+<img src="./img/게시글수정삭제권한분리.gif"/>
+
+#### 게시판 글 검색(제목, 카테고리, 내용) 
+
+<img src="./img/보드검색기능.gif"/>
+
+#### 게시판 글 추천/비추천 
+
+<img src="./img/게시글좋아요싫어요.gif"/>
+
+#### 댓글 작성 및 수정
+
+#### 댓글 추천/비추천 
+
 </details>
 
 <details>
-<summary>
-  <b> 게시판</b>
-</summary>
-  <div markdown="">
-    <ul>
-      <li>게시판 글 작성
+  
+<summary>위시리스트</summary>
 
-  ![게시판글작성](https://github.com/user-attachments/assets/7cb4efe8-3f03-4ae4-9416-367a68d77214)
-      </li>
-      <li>게시판 글 수정 및 삭제
-        
-  ![게시글수정삭제권한분리](https://github.com/user-attachments/assets/f72dec98-51b1-42e9-8a8d-7ee2b2f3b3ac)
-      </li>
-      <li>게시판 글 검색(제목, 카테고리, 내용)
-        
-  ![보드검색기능](https://github.com/user-attachments/assets/1d2d0dce-0760-4cbb-8dff-62cc30c3bd67)
-      </li>
-      <li>게시판 글 추천/비추천
-        
-  ![게시글좋아요싫어요](https://github.com/user-attachments/assets/dc3e7362-c39f-4c5f-9b44-29ea2fc41b02)</li>
-      <li>댓글 작성 및 수정</li>
-      <li>댓글 추천/비추천
-        
-  ![댓글좋아요싫어요](https://github.com/user-attachments/assets/f74b1d7c-05bc-488b-abd2-de82d071a6fa)
-      </li>
-    </ul>
-  </div>
-</details>
+#### 위시리스트 생성 
 
-<details>
-  <summary>
-    <b>위시리스트 추가 및 조회</b>
-  </summary>
-  <div markdown="1">
-    <ul>
-      <li>위시리스트 생성
-        
-  ![위시리스트찜추가](https://github.com/user-attachments/assets/b4f96e0e-13e3-4f78-9c51-5384c629932f)
-      </li>
-      <li>위시리스트 삭제
-        
-  ![위시리스트찜해제](https://github.com/user-attachments/assets/e7612a97-3aa9-47ea-aaa4-d5b7325c4500)
-      </li>
-      <li>위시리스트 내역 확인
-        
-  ![마이페이지찜목록](https://github.com/user-attachments/assets/748c9573-343e-470e-a69f-5ea850cdbfe9)
-      </li>
-    </ul>
-  </div>
+<img src="./img/위시리스트찜추가.gif"/>
+
+#### 위시리스트 삭제
+
+<img src="./img/위시리스트찜해제.gif"/>
+
+#### 마이페이지 위시리스트
+
+<img src="./img/마이페이지찜목록.gif"/>
+
+
 </details>
