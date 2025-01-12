@@ -1,11 +1,21 @@
 # NoExit
-방탈출게임을 사랑하는 찐덕후들을 위한 통합 플랫폼 서비스
+
+<div align="center">
 
 ![NoExit_Logo](https://github.com/user-attachments/assets/c82287fc-49f0-49ee-8602-a9835d39aafa)
 
+<div align="center">
+
+방탈출게임을 사랑하는 찐덕후들을 위한 통합 플랫폼 서비스
+
+
 <br/>
 
+<div align="left">
+
 ## 🙋🏻팀원
+
+<div align="center">
 
 | **김민성** | **김민지** | **박수현** | **이명규** |
 | :------: |  :------: | :------: | :------: |
@@ -13,65 +23,62 @@
 
 <br/>
 
-## 📢 프로젝트 소개
+<div align="left">
+
+## 💡 프로젝트 개요
   
 <div align="left">
 
-  NoExit는 전국의 방탈출 게임을 하나의 플랫폼에서 손쉽게 검색, 예약, 리뷰 확인,커뮤니티 참여, 참가인원 모집까지 할 수 있는 통합 플랫폼 서비스 입니다. 방탈출 게임을 사랑하는 유저들에게 편리한 서비스를 제공하며 방탈출 카페 업주들에게는 효율적인 마케팅과 고객 관리 도구를 제공합니다.
+"다양한 선택지와 편리한 예약 기능을 하나의 플랫폼에서"
 
-  <br/>
+NoExit은 전국의 방탈출 게임을 한눈에 검색, 예약, 리뷰 확인, 커뮤니티 참여, 그리고 참가 인원 모집까지 가능한 통합 플랫폼 서비스입니다.
+방탈출 게임을 사랑하는 유저들에게 편리한 서비스를 제공하며 방탈출 카페 업주들에게는 효율적인 마케팅과 고객 관리 도구를 제공합니다. 
 
-## 💡 프로젝트 배경 및 필요성
-  
-<div align="left">
+NoExit은 참가 인원을 모집하고 함께 방탈출을 해결해 나갈 수 있는 커뮤니티 기능을 핵심 차별점으로 두었습니다.
+유저들이 손쉽게 참여 인원을 모집하여 혼자서도 부담 없이 방탈출 게임을 즐길 수 있도록 하였고, 모집된 인원을 채팅방에 초대하여 활발한 소통과 커뮤니티 활동이 가능하다는 것이 NoExit만의 강점입니다.
 
-방탈출게임 시장 동향
-    
-  ![escape-room-market](https://github.com/user-attachments/assets/4670d24b-8fc1-4d96-9d18-a9b35f8821ec)
-  
--  현재 방탈출 산업의 호황은 엔터테인먼트에 대한 소비자의 욕구가 증가한 결과이며 앞으로도 산업 규모는 커질 것 으로 예상됩니다. 소비자들은 친구 및 가족과 함께 시간을 보낼 수 있는 새롭고 창의적인 방법을 찾으며 방탈출카페 산업은 점점 더 인기를 얻고 있습니다. 방탈출 카페 운영자는 고객들이 방탈출 서비스에 점점 더 다양한 테마, 창의적인 도전을 원하는 추세이며 그에따라 자연스럽게 더 질 좋은 서비스를 원하고 있습니다.
-  
-- 저희 NoExit는 방탈출 카페를 찾는 사용자들에게는 다양한 선택지와 편리한 예약 기능을 제공하고 방탈출 카페 운영자에게는 효율적인 고객 관리와 마케팅 도구를 제공하여 마이너한 문화에서 메이저한 문화로 발전한 방탈출 문화를 더욱 활성화 하는 것을 목표로 합니다.
-    
-  
-  <br/>
-  
-## 💡 NoExit의 경쟁력
-<div align="left">
-
-  
-- 편리한 예약 서비스를 제공하며 손 쉽게 방탈출 게임 정보를 제공한다.
-- 정교한 필터링 기능으로 사용자 맞춤형 추천을 제공한다.
-- 사용자 리뷰 및 평점 시스템을 통해 신뢰할 수 있는 정보를 제공한다.
-- 유저 간 활발한 커뮤니티를 통해 지속적인 유입과 참여를 유도하며 함께하기 기능을 통해 점주는 매출 증대를 기대할 수 있다.
-- 업주에게 효율적인 예약 시스템을 제공하여 효율적인 비즈니스 운영을 지원한다.
-  
-</div>
 
 <br/>
 
-<div align=center>	
+<div align="left">
 
 
 ## 🛠 기술 스택
 
 <div align="left">
 
+
+
+### Back-end
+![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
+![socketdotio](https://img.shields.io/badge/socketdotio-010101?style=for-the-badge&logo=socketddotio&logoColor=white)
+
+### Front-end
+![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![vuetify](https://img.shields.io/badge/vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+
+### Devops
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![amazonrds](https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![amazonroute53](https://img.shields.io/badge/amazonroute53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white)
+![cloudfront](https://img.shields.io/badge/cloudfront-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![amazoneks](https://img.shields.io/badge/amazoneks-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
+
+![githubactions](https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+
+
 ###  DB
 ![mariadb](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![redis](https://img.shields.io/badge/redis-FF4438?style=for-the-badge)
 ![amazons3](https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![amazonelasticache](https://img.shields.io/badge/amazonelasticache-C925D1?style=for-the-badge&logo=amazonelasticache&logoColor=white)
 
-### BACKEND
-![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![socketdotio](https://img.shields.io/badge/socketdotio-010101?style=for-the-badge&logo=socketddotio&logoColor=white)
-
-### FRONTEND
-![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![vuetify](https://img.shields.io/badge/vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
-
-### TOOLS
+### Tools
 ![Notion](https://img.shields.io/badge/notion-181717?style=for-the-badge&logo=notion&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)
@@ -86,7 +93,7 @@
 
 <div align=center>	
 
-  <img src="./img/WBS-be.gif" alt="WBS" width="1000" height="500" />
+  <img src="./img/WBS.gif" alt="WBS" width="1000" height="500" />
 
 
 [🗓️ WBS 상세 보기](https://docs.google.com/spreadsheets/d/1VdXKl6pfghy9OK6zTpShCHeG1uyAGB85Y2ycm1viF5g/edit?usp=sharing)
@@ -123,19 +130,25 @@
 
 
 ## 📌 주요 기능    
-- 참여 게시판
-  - 방탈출 게임 매니아들과 언제든지 함께 하기위해 원하는 게임, 시간, 인원을 선택하여 사람들을 모집할 수 있습니다.
-  - 모집인원 마감 시 자동으로 채팅방이 생성되어 참여 인원들에게 초대메시지를 보내지며 참여 인원들은 초대메시지를 통해 채팅방에 참여할 수 있습니다.
-- 정교한 검색 기능
-  - 게임을 카테고리별, 금액별, 난이도별로 검색할 수 있습니다.
-- 실시간 예약 및 승인&거절의 실시간 알림
+  ### 참여 게시판
+  - 방탈출 게임 매니아들이 원하는 게임, 시간, 인원을 선택하여 모집할 수 있습니다.
+  - 모집 인원이 마감되면 자동으로 채팅방을 생성하여 초대 메시지를 전송합니다.
+  - 초대 메시지를 통해 참여 인원들은 채팅방에 바로 참여 가능합니다.
+
+  ### 실시간 예약
   - 사용자가 예약을 요청하면 점주는 예약 요청에 대한 알림을 받을 수 있습니다.
-  - 점주의 예약 승인/거절 여부에 대해서 사용자는 알림을 받을 수 있습니다. 
-- 실시간 채팅을 통한 커뮤니티&함께하기 활성화
-  - 함께하기 게시판을 이용해 생성된 채팅방에서 실시간으로 채팅하며 약속을 잡을 수 있습니다
-- 실시간 알림을 통한 커뮤니티 활성화
-  - 자신이 작성한 게시글에 댓글 작성 시 실시간 알림 기능
-  - 자신이 작성한 댓글의 추천 시 실시간 알림 기능
+  - 점주의 예약 승인/거절 여부에 대해서 사용자는 알림을 받을 수 있습니다.
+    
+  ### 채팅을 통한 커뮤니티 및 참여 활성화
+  - 참여 게시판(Escape With Me)으로 생성된 채팅방에서 실시간 채팅이 가능합니다.
+    
+  ### 실시간 알림 
+  - 게시글에 댓글 작성 혹은 해당 게시글을 추천 시 작성자에게 실시간 알림이 전송됩니다.
+  - 예약 현황 업데이트 시 알림이 전송됩니다. 
+    
+  ### 정교한 검색 기능
+  - 게임을 카테고리별, 금액별, 난이도별로 검색할 수 있습니다.
+
 <br/>
 
 
