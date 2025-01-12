@@ -244,6 +244,7 @@ NoExit은 참가 인원을 모집하고 함께 방탈출을 해결해 나갈 수
 
 </details>
 
+
 <details>
   
 <summary>위시리스트</summary>
